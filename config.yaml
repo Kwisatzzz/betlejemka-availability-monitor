@@ -1,0 +1,9 @@
+checking_interval: 300 # Measured in seconds
+target_date: "12-13-2024"
+
+email_config:
+  subject: "wolne pokoje" # Be advised that message "wolne pokoje" would be most likely classified as spam
+  body: "W betlejemce są wolne pokoje" # Same regards the message's body
+  from_email: "" # Your gmail email address
+  from_password: "" # App password 
+  recipients: ["example@gmail.com", "another.example@gmail.com"]
