@@ -9,7 +9,7 @@ Run:
 
 ## Config file
 The script uses configuration files in YAML format. Here’s an example:
-```
+```YAML
 checking_interval: 300
 target_date: "12-13-2024"
 
